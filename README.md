@@ -1,1 +1,1 @@
-# GEO-services-MADE
+# курс по GEO сервисам MADE
